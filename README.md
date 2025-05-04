@@ -1,7 +1,5 @@
 # JavaScript-Conditionals-Loops
 ### 50 JavaScript programs focused on practicing conditionals and loops.
----
-### 🔁 **Programs Using Loops**
 
 1.  Print numbers from 1 to 100
     
@@ -42,11 +40,6 @@
 19.  Print an inverted pyramid of stars
     
 20.  Print the ASCII value of each character in a string
-    
-
----
-
-### 🔀 **Programs Using Conditionals**
 
 21.  Check if a number is positive, negative, or zero
     
@@ -87,11 +80,6 @@
 39.  Categorize age (child, teen, adult, senior)
     
 40.  Check if a character is an alphabet or not
-    
-
----
-
-### 🔁🔀 **Combined Loop + Conditional Practice**
 
 41.  Print all numbers divisible by 7 between 1 and 100
     
